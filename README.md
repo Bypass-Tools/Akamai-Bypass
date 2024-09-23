@@ -1,4 +1,4 @@
-# Akamai-Sensor-Generator
+# Akamai Sensor Generator
 
 Selling Akamai bypassing tools:
 
